@@ -1,4 +1,4 @@
-node_aarch64:583b3e4735fb81de084a83a53925eccf:/opt/bcloud/nodeapi/node:0755
+node_aarch64:884feedd823c550045a7ab08891d8def:/opt/bcloud/nodeapi/node:0755
 node_armv7l:bf416f278eeae408a9faba7d7cdcd45c:/opt/bcloud/nodeapi/node:0755
 node_x86-64:b0abba7c1f0a84a845933f1be6774237:/opt/bcloud/nodeapi/node:0755
 bxc-network_aarch64:2a8a255de97bb395a5486a07a78f16d0:/opt/bcloud/bxc-network:0755
